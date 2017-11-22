@@ -6,7 +6,7 @@ Permite estudiar los conceptos de programación orientada a objetos.
 ## Installation
 
 Add this line to your application's Gemfile:
-
+Nuevo cambio
 ```ruby
 gem 'point'
 ```
